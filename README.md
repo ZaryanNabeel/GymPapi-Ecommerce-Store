@@ -4,7 +4,7 @@ Click here to visit the live site:
 
 GymPapi is a fitness-focused e-commerce website that allows users to browse, select, and purchase gym accessories and workout products through a simple, modern, and user-friendly interface. The platform includes features like product listings, shopping cart, checkout flow, and responsive design, making it easy for customers to shop online.
 
-💡 Why We Made GymPapi
+#💡 Why We Made GymPapi
 
 We created GymPapi as part of our E-Commerce course project to understand how real online stores are built and managed. Instead of coding everything from scratch, we chose WordPress + WooCommerce to learn how modern e-commerce businesses actually operate today.
 
